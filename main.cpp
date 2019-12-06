@@ -7,3 +7,11 @@ int main() {
 	cin.get();//aspetto finchè l'utente non preme qualche tasto!
 	return 0;//return significa che io resistuisco alla funzione il numero 0 che significa che tutto è andato bene!
 }
+
+/*
+commento multi riga
+commento 
+commento
+*/
+
+//commento singola riga
